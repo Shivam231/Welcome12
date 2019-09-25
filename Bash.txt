@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test bash
+=======
+This is Bash2
+>>>>>>> finance
